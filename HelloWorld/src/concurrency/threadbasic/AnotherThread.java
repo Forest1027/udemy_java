@@ -1,6 +1,6 @@
-package concurrency;
+package concurrency.threadbasic;
 
-import static concurrency.ThreadColor.ANSI_BLUE;
+import static concurrency.threadbasic.ThreadColor.ANSI_BLUE;
 
 public class AnotherThread extends Thread{
     @Override

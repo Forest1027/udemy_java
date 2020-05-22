@@ -1,6 +1,6 @@
-package concurrency;
+package concurrency.threadbasic;
 
-import static concurrency.ThreadColor.ANSI_RED;
+import static concurrency.threadbasic.ThreadColor.ANSI_RED;
 
 public class MyRunnable implements Runnable {
     @Override

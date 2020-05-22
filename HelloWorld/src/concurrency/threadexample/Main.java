@@ -1,4 +1,4 @@
-package concurrency2;
+package concurrency.threadexample;
 
 public class Main {
     public static void main(String[] args) {
