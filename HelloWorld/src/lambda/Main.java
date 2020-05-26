@@ -32,11 +32,11 @@ public class Main {
 //            new Thread(()-> System.out.println(employee.getAge())).start();
 //        }
 //        System.out.println("**********");
-        for (int i = 0; i < employees.size(); i++) {
-            // assign to a local variable
-            System.out.println(employees.get(i).getName());
-            new Thread(()-> System.out.println(employees.get(finalI).getAge())).start();
-        }
+//        for (int i = 0; i < employees.size(); i++) {
+//            // assign to a local variable
+//            System.out.println(employees.get(i).getName());
+//            new Thread(()-> System.out.println(employees.get(i).getAge())).start();
+//        }
         //Collections.sort(employees, (Employee o1, Employee o2) -> o1.getName().compareTo(o2.getName()));
 //        Collections.sort(employees, (o1, o2) -> o1.getName().compareTo(o2.getName()));
 //
